@@ -6,6 +6,9 @@ public class Test1 {
 
     //github端(其他的同事)的修改
     System.out.println("师姐你好");
+    /*
+    * 修改1.0分支的bug
+    * */
   }
 
 }
